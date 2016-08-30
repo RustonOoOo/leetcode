@@ -24,9 +24,8 @@ Problem | Solution | Difficulty
 [383.Ransom Note](https://leetcode.com/problems/ransom-note/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/383.Ransom%20Note/solution.cpp) | Easy
 [389.Find the Difference](https://leetcode.com/problems/find-the-difference/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/389.Find%20the%20Difference/solution.cpp) | Easy
 [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |[solution](https://github.com/RustonOoOo/leetcode/blob/master/171.%20Excel%20Sheet%20Column%20Number/solution.cpp) | Easy
-[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[solution](https://github.com/RustonOoOo/leetcode/tree/master/242.%20Valid%20Anagram) | Easy
-[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
-|[solution](https://github.com/RustonOoOo/leetcode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String/solution.cpp) |Easy
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[solution](https://github.com/RustonOoOo/leetcode/tree/master/242.%20Valid%20Anagram) | Easy 
+[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String/solution.cpp) |Easy
 
 
 
