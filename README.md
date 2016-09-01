@@ -21,7 +21,7 @@ Problem | Solution | Difficulty
 [169. Majority Element](https://leetcode.com/problems/majority-element/)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/169.%20Majority%20Element) | Easy
 [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |[solution](https://github.com/RustonOoOo/leetcode/blob/master/171.%20Excel%20Sheet%20Column%20Number/solution.cpp) | Easy
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/206.%20Reverse%20Linked%20List/solution.cpp)|Easy
-[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/217.%20Contains%20Duplicate%20%20QuestionEditorial%20Solution/solution.cpp)|Easy
+[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/217.%20Contains%20Duplicate/solution.cpp)|Easy
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[solution](https://github.com/RustonOoOo/leetcode/tree/master/242.%20Valid%20Anagram) | Easy
 [226.Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/226.Invert%20Binary%20Tree/solution.cpp)  | Easy
 [258.Add Digits](https://leetcode.com/problems/add-digits/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/258.Add%20Digits/solution1.cpp) | Easy
