@@ -3,8 +3,8 @@
 
 **编程语言:**C++<br>
 **目的:**练习数据结构与算法,熟练stl<br>
-**习题顺序:**由easy到hard
-**付费题目以及Dynamic Programming 和 Math的一些题没有**
+**习题顺序:**由easy到hard<br>
+**付费题目以及Dynamic Programming 和 Math的一些题没有**<br>
 
 ---
 
