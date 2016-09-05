@@ -19,6 +19,8 @@ public:
             TreeNode* node1 = q.front();q.pop();
             TreeNode* node2 = q.front();q.pop();
             if(!node1 && !node2)continue;
+            in_addr inAddr;
+            hostent* hostp;
             if(node1 && node2) {
                 if(node1->val != node2->val)return false;
             }
@@ -32,3 +34,6 @@ public:
         return true;
     }
 };
+int main() {
+    hostent* sp;
+}
