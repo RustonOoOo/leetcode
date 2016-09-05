@@ -12,8 +12,23 @@
 
 
 
+# [Leetcode](https://leetcode.com/problemset/algorithms/)
+---
+
+**编程语言:**C++<br>
+**目的:**练习数据结构与算法,熟练stl<br>
+**习题顺序:**由easy到hard<br>
+---
+
+
+
+
+
+
+
 Problem | Solution | Difficulty
 ---|---|---
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/9.%20Palindrome%20Number/solution.cpp)|Easy
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [solution](https://github.com/RustonOoOo/leetcode/tree/master/13.%20Roman%20to%20Integer) | Easy
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [solution](https://github.com/RustonOoOo/leetcode/blob/master/21.%20Merge%20Two%20Sorted%20Lists/solution.cpp)|Easy
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/24.%20Swap%20Nodes%20in%20Pairs/solution.cpp)|Easy
@@ -27,6 +42,7 @@ Problem | Solution | Difficulty
 [104.Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/104.Maximum%20Depth%20of%20Binary%20Tree)  | Easy
 [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)|Easy
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/110.%20Balanced%20Binary%20Tree/solution.cpp)|Easy
+[112. Path Sum](https://leetcode.com/problems/path-sum)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/112.%20Path%20Sum/solution.cpp)|Easy
 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/118.%20Pascal's%20Triangle/solution.cpp)|Easy
 [136.Single Number](https://leetcode.com/problems/single-number/) | [solution](https://github.com/RustonOoOo/leetcode/tree/master/136.Single%20Number)| Easy
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/141.%20Linked%20List%20Cycle)|Easy
@@ -39,12 +55,15 @@ Problem | Solution | Difficulty
 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/232.%20Implement%20Queue%20using%20Stacks/solution.cpp)|Easy
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|Easy
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[solution](https://github.com/RustonOoOo/leetcode/tree/master/242.%20Valid%20Anagram) | Easy
+[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/257.%20Binary%20Tree%20Paths/solution.cpp)|Easy
 [258.Add Digits](https://leetcode.com/problems/add-digits/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/258.Add%20Digits/solution1.cpp) | Easy
 [283.Move Zeros](https://leetcode.com/problems/move-zeroes/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/283.Move%20Zeros/solution.cpp) | Easy
+[299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/299.%20Bulls%20and%20Cows/solution.cpp)|Easy
 [344.Reverse String](https://leetcode.com/problems/reverse-string/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/344.Reverse%20String/solution.cpp) | Easy
 [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/345.%20Reverse%20Vowels%20of%20a%20String/solution.cpp)|Easy
 [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/349.Intersection%20of%20Two%20Arrays) | Easy
 [350. Intersection of Two Arrays II ](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/350.%20Intersection%20of%20Two%20Arrays%20II%20%20QuestionEditorial%20Solution)|Easy
+[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/374.%20Guess%20Number%20Higher%20or%20Lower/solution.cpp)|Easy
 [383.Ransom Note](https://leetcode.com/problems/ransom-note/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/383.Ransom%20Note/solution.cpp) | Easy
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String/solution.cpp) |Easy
 [389.Find the Difference](https://leetcode.com/problems/find-the-difference/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/389.Find%20the%20Difference/solution.cpp) | Easy
