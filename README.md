@@ -22,6 +22,7 @@ Problem | Solution | Difficulty
 ---|---|---
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/9.%20Palindrome%20Number/solution.cpp)|Easy
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [solution](https://github.com/RustonOoOo/leetcode/tree/master/13.%20Roman%20to%20Integer) | Easy
+[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.cpp)|Easy  
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [solution](https://github.com/RustonOoOo/leetcode/blob/master/21.%20Merge%20Two%20Sorted%20Lists/solution.cpp)|Easy
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/24.%20Swap%20Nodes%20in%20Pairs/solution.cpp)|Easy
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy
@@ -34,6 +35,7 @@ Problem | Solution | Difficulty
 [104.Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/104.Maximum%20Depth%20of%20Binary%20Tree)  | Easy
 [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)|Easy
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/110.%20Balanced%20Binary%20Tree/solution.cpp)|Easy
+[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/111.%20Minimum%20Depth%20of%20Binary%20Tree)|Easy
 [112. Path Sum](https://leetcode.com/problems/path-sum)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/112.%20Path%20Sum/solution.cpp)|Easy
 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/118.%20Pascal's%20Triangle/solution.cpp)|Easy
 [136.Single Number](https://leetcode.com/problems/single-number/) | [solution](https://github.com/RustonOoOo/leetcode/tree/master/136.Single%20Number)| Easy
@@ -41,9 +43,11 @@ Problem | Solution | Difficulty
 [169. Majority Element](https://leetcode.com/problems/majority-element/)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/169.%20Majority%20Element%20%20QuestionEditorial%20Solution) | Easy
 [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |[solution](https://github.com/RustonOoOo/leetcode/blob/master/171.%20Excel%20Sheet%20Column%20Number/solution.cpp) | Easy
 [202. Happy Number](https://leetcode.com/problems/happy-number) |[solution](https://github.com/RustonOoOo/leetcode/blob/master/202.%20Happy%20Number/solution.cpp)|Easy
+[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/205.%20Isomorphic%20Strings)|Easy
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/206.%20Reverse%20Linked%20List%20%20QuestionEditorial%20Solution/solution.cpp)|Easy
 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/217.%20Contains%20Duplicate%20%20QuestionEditorial%20Solution/solution.cpp)|Easy
 [226.Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/226.Invert%20Binary%20Tree/solution.cpp)  | Easy
+[225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/225.%20Implement%20Stack%20using%20Queues/solution.cpp)|Easy
 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/232.%20Implement%20Queue%20using%20Stacks/solution.cpp)|Easy
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|Easy
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[solution](https://github.com/RustonOoOo/leetcode/tree/master/242.%20Valid%20Anagram) | Easy
