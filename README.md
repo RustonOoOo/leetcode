@@ -53,8 +53,8 @@ Problem | Solution | Difficulty
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/206.%20Reverse%20Linked%20List%20%20QuestionEditorial%20Solution/solution.cpp)|Easy
 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/217.%20Contains%20Duplicate%20%20QuestionEditorial%20Solution/solution.cpp)|Easy
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/219.%20Contains%20Duplicate%20II/solution.cpp)|Easy
-[226.Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/226.Invert%20Binary%20Tree/solution.cpp)  | Easy
 [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/225.%20Implement%20Stack%20using%20Queues/solution.cpp)|Easy
+[226.Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/226.Invert%20Binary%20Tree/solution.cpp)  | Easy
 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/232.%20Implement%20Queue%20using%20Stacks/solution.cpp)|Easy
 [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/234.%20Palindrome%20Linked%20List/solution.cpp)|Easy
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|Easy
