@@ -21,8 +21,10 @@
 
 Problem | Solution | Difficulty
 ---|---|---
+[1. Two Sum](https://leetcode.com/problems/two-sum)| [solution](https://github.com/RustonOoOo/leetcode/blob/master/1.%20Two%20Sum/solution.cpp)|Easy
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/9.%20Palindrome%20Number/solution.cpp)|Easy
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [solution](https://github.com/RustonOoOo/leetcode/tree/master/13.%20Roman%20to%20Integer) | Easy
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/14.%20Longest%20Common%20Prefix/solution.cpp)|Easy
 [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.cpp)|Easy  
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/20.%20Valid%20Parentheses/solution.cpp)|Easy
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [solution](https://github.com/RustonOoOo/leetcode/blob/master/21.%20Merge%20Two%20Sorted%20Lists/solution.cpp)|Easy
@@ -32,6 +34,7 @@ Problem | Solution | Difficulty
 [38. Count and Say](https://leetcode.com/problems/count-and-say)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/38.%20Count%20and%20Say/solution.cpp)|Easy
 [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/58.%20Length%20of%20Last%20Word/solution.cpp)|Easy
 [66. Plus One](https://leetcode.com/problems/plus-one/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/66.%20Plus%20One/solution.cpp)|Easy
+[67. Add Binary](https://leetcode.com/problems/add-binary)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/67.%20Add%20Binary/solution.cpp)|Easy
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/83.%20Remove%20Duplicates%20from%20Sorted%20List/solution.cpp)|Easy
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/88.%20Merge%20Sorted%20Array/solution.cpp)|Easy
 [100.Same Tree](https://leetcode.com/problems/same-tree/) | [solution](https://github.com/RustonOoOo/leetcode/blob/master/100.Same%20Tree/solution.cpp) | Easy
@@ -49,6 +52,7 @@ Problem | Solution | Difficulty
 [169. Majority Element](https://leetcode.com/problems/majority-element/)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/169.%20Majority%20Element%20%20QuestionEditorial%20Solution) | Easy
 [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |[solution](https://github.com/RustonOoOo/leetcode/blob/master/171.%20Excel%20Sheet%20Column%20Number/solution.cpp) | Easy
 [202. Happy Number](https://leetcode.com/problems/happy-number) |[solution](https://github.com/RustonOoOo/leetcode/blob/master/202.%20Happy%20Number/solution.cpp)|Easy
+[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/203.%20Remove%20Linked%20List%20Elements/solution.cpp)|Easy
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/205.%20Isomorphic%20Strings)|Easy
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/206.%20Reverse%20Linked%20List%20%20QuestionEditorial%20Solution/solution.cpp)|Easy
 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/217.%20Contains%20Duplicate%20%20QuestionEditorial%20Solution/solution.cpp)|Easy
