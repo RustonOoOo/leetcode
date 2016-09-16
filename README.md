@@ -33,6 +33,7 @@ Problem | Solution | Difficulty
 [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.cpp)|Easy  
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/20.%20Valid%20Parentheses/solution.cpp)|Easy
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [solution](https://github.com/RustonOoOo/leetcode/blob/master/21.%20Merge%20Two%20Sorted%20Lists/solution.cpp)|Easy
+[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[solution](https://github.com/RustonOoOo/leetcode/blob/71038c5028725cb4cb7620f45b93b61fa1253ee1/22.%20Generate%20Parentheses/solution.cpp)|Medium
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/24.%20Swap%20Nodes%20in%20Pairs/solution.cpp)|Easy
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy
 [27. Remove Element](https://leetcode.com/problems/remove-element)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/27.%20Remove%20Element)|Easy
