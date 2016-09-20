@@ -23,6 +23,7 @@ Problem | Solution | Difficulty
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/7.%20Reverse%20Integer/solution.cpp)|Easy
 [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/8.%20String%20to%20Integer%20(atoi))|Easy
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/9.%20Palindrome%20Number/solution.cpp)|Easy
+[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[solution](https://github.com/RustonOoOo/leetcode/blob/fa279ef3a3c9935a110f9780f4f4c25536bb9f38/11.%20Container%20With%20Most%20Water/solution.cpp)|Medium
 [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[solution](https://github.com/RustonOoOo/leetcode/blob/5286cc73bb234b150f93c51d0febbb64e118cbba/12.%20Integer%20to%20Roman/solution.cpp)|Medium
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [solution](https://github.com/RustonOoOo/leetcode/tree/master/13.%20Roman%20to%20Integer) | Easy
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/14.%20Longest%20Common%20Prefix/solution.cpp)|Easy
@@ -37,9 +38,14 @@ Problem | Solution | Difficulty
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)|[solution](https://github.com/RustonOoOo/leetcode/blob/7eea77c810380491062547f20fc80bee848a7261/35.%20Search%20Insert%20Position/solution.cpp)|Medium
 [38. Count and Say](https://leetcode.com/problems/count-and-say)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/38.%20Count%20and%20Say/solution.cpp)|Easy
 [46. Permutations](https://leetcode.com/problems/permutations)|[solution](https://github.com/RustonOoOo/leetcode/blob/7eea77c810380491062547f20fc80bee848a7261/46.%20Permutations/solution.cpp)|Medium
+[48. Rotate Image](https://leetcode.com/problems/rotate-image/)|[solution](https://github.com/RustonOoOo/leetcode/blob/2f9d6da77fdaee20033a96dbfcfd01e56546f3dc/48.%20Rotate%20Image/solution.cpp)|Medium
 [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/58.%20Length%20of%20Last%20Word/solution.cpp)|Easy
+[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[solution](https://github.com/RustonOoOo/leetcode/blob/2f9d6da77fdaee20033a96dbfcfd01e56546f3dc/64.%20Minimum%20Path%20Sum/solution1.cpp)|Medium
 [66. Plus One](https://leetcode.com/problems/plus-one/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/66.%20Plus%20One/solution.cpp)|Easy
 [67. Add Binary](https://leetcode.com/problems/add-binary)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/67.%20Add%20Binary/solution.cpp)|Easy
+[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[solution](https://github.com/RustonOoOo/leetcode/blob/fa279ef3a3c9935a110f9780f4f4c25536bb9f38/74.%20Search%20a%202D%20Matrix/solution.cpp)|Medium
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[solution](https://github.com/RustonOoOo/leetcode/blob/2f9d6da77fdaee20033a96dbfcfd01e56546f3dc/75.%20Sort%20Colors/solution.cpp)|Medium
+[77. Combinations](https://leetcode.com/problems/combinations/)|[solution](https://github.com/RustonOoOo/leetcode/blob/d03f97bceb81e2bb0872c4dfa76fd9296b7a7de9/77.%20Combinations/solution.cpp)|Medium
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/83.%20Remove%20Duplicates%20from%20Sorted%20List/solution.cpp)|Easy
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/88.%20Merge%20Sorted%20Array/solution.cpp)|Easy
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[solution](https://github.com/RustonOoOo/leetcode/tree/5286cc73bb234b150f93c51d0febbb64e118cbba/94.%20Binary%20Tree%20Inorder%20Traversal)|Medium
@@ -53,6 +59,7 @@ Problem | Solution | Difficulty
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/110.%20Balanced%20Binary%20Tree/solution.cpp)|Easy
 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/111.%20Minimum%20Depth%20of%20Binary%20Tree)|Easy
 [112. Path Sum](https://leetcode.com/problems/path-sum)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/112.%20Path%20Sum/solution.cpp)|Easy
+[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[solution](https://github.com/RustonOoOo/leetcode/blob/d03f97bceb81e2bb0872c4dfa76fd9296b7a7de9/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/solution.cpp)|Medium
 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/118.%20Pascal's%20Triangle/solution.cpp)|Easy
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/125.%20Valid%20Palindrome/solution.cpp)|Easy
 [136.Single Number](https://leetcode.com/problems/single-number/) | [solution](https://github.com/RustonOoOo/leetcode/tree/master/136.Single%20Number)| Easy
@@ -66,11 +73,13 @@ Problem | Solution | Difficulty
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/168.%20Excel%20Sheet%20Column%20Title/solution.cpp)|Easy
 [169. Majority Element](https://leetcode.com/problems/majority-element/)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/169.%20Majority%20Element%20%20QuestionEditorial%20Solution) | Easy
 [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |[solution](https://github.com/RustonOoOo/leetcode/blob/master/171.%20Excel%20Sheet%20Column%20Number/solution.cpp) | Easy
+[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[solution](https://github.com/RustonOoOo/leetcode/blob/d03f97bceb81e2bb0872c4dfa76fd9296b7a7de9/173.%20Binary%20Search%20Tree%20Iterator/solution.cpp)|Medium
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[solution](https://github.com/RustonOoOo/leetcode/blob/7eea77c810380491062547f20fc80bee848a7261/199.%20Binary%20Tree%20Right%20Side%20View/solution.cpp)|Medium
 [202. Happy Number](https://leetcode.com/problems/happy-number) |[solution](https://github.com/RustonOoOo/leetcode/blob/master/202.%20Happy%20Number/solution.cpp)|Easy
 [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/203.%20Remove%20Linked%20List%20Elements/solution.cpp)|Easy
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/205.%20Isomorphic%20Strings)|Easy
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/206.%20Reverse%20Linked%20List%20%20QuestionEditorial%20Solution/solution.cpp)|Easy
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[solution](https://github.com/RustonOoOo/leetcode/blob/2f9d6da77fdaee20033a96dbfcfd01e56546f3dc/215.%20Kth%20Largest%20Element%20in%20an%20Array/solution1.cpp)|Medium
 [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii)|[solution](https://github.com/RustonOoOo/leetcode/blob/71038c5028725cb4cb7620f45b93b61fa1253ee1/216.%20Combination%20Sum%20III/solution.cpp)|Medium
 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/217.%20Contains%20Duplicate%20%20QuestionEditorial%20Solution/solution.cpp)|Easy
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/219.%20Contains%20Duplicate%20II/solution.cpp)|Easy
@@ -87,15 +96,19 @@ Problem | Solution | Difficulty
 [258.Add Digits](https://leetcode.com/problems/add-digits/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/258.Add%20Digits/solution1.cpp) | Easy
 [278. First Bad Version](https://leetcode.com/problems/first-bad-version)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/278.%20First%20Bad%20Version/solution.cpp)|Easy
 [283.Move Zeros](https://leetcode.com/problems/move-zeroes/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/283.Move%20Zeros/solution.cpp) | Easy
+[284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator///https://leetcode.com/problems/peeking-iterator/)|[solution](https://github.com/RustonOoOo/leetcode/blob/fa279ef3a3c9935a110f9780f4f4c25536bb9f38/284.%20Peeking%20Iterator/solution.cpp)|Medium
 [290. Word Pattern](https://leetcode.com/problems/word-pattern)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/290.%20Word%20Pattern/solution.cpp)|Easy
 [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/299.%20Bulls%20and%20Cows/solution.cpp)|Easy
+[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[solution](https://github.com/RustonOoOo/leetcode/blob/2f9d6da77fdaee20033a96dbfcfd01e56546f3dc/300.%20Longest%20Increasing%20Subsequence/solution.cpp)|Medium
 [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|[solution](https://github.com/RustonOoOo/leetcode/blob/5286cc73bb234b150f93c51d0febbb64e118cbba/328.%20Odd%20Even%20Linked%20List/solution.cpp)|Medium
+[334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[solution](https://github.com/RustonOoOo/leetcode/blob/d03f97bceb81e2bb0872c4dfa76fd9296b7a7de9/334.%20Increasing%20Triplet%20Subsequence/solution.cpp)|Medium
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii)|[solution](https://github.com/RustonOoOo/leetcode/blob/71038c5028725cb4cb7620f45b93b61fa1253ee1/337.%20House%20Robber%20III/solution.cpp)|Medium
 [344.Reverse String](https://leetcode.com/problems/reverse-string/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/344.Reverse%20String/solution.cpp) | Easy
 [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/345.%20Reverse%20Vowels%20of%20a%20String/solution.cpp)|Easy
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[solution](https://github.com/RustonOoOo/leetcode/blob/392224cb0e2360a18a7226d66a498079d5fa5e63/347.%20Top%20K%20Frequent%20Elements/solution.cpp)|Easy
 [349.Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/349.Intersection%20of%20Two%20Arrays) | Easy
 [350. Intersection of Two Arrays II ](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[solution](https://github.com/RustonOoOo/leetcode/tree/master/350.%20Intersection%20of%20Two%20Arrays%20II%20%20QuestionEditorial%20Solution)|Easy
+[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[solution](https://github.com/RustonOoOo/leetcode/blob/d03f97bceb81e2bb0872c4dfa76fd9296b7a7de9/367.%20Valid%20Perfect%20Square/solution.cpp)|Medium
 [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/374.%20Guess%20Number%20Higher%20or%20Lower/solution.cpp)|Medium
 [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node)|[solution](https://github.com/RustonOoOo/leetcode/blob/392224cb0e2360a18a7226d66a498079d5fa5e63/382.%20Linked%20List%20Random%20Node/solution.cpp)|Medium
 [383.Ransom Note](https://leetcode.com/problems/ransom-note/)|[solution](https://github.com/RustonOoOo/leetcode/blob/master/383.Ransom%20Note/solution.cpp) | Easy
